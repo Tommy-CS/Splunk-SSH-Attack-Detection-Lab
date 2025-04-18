@@ -24,7 +24,7 @@ This is a hands-on cybersecurity lab that uses Splunk Enterprise to simulate and
 
 ## Screenshots
 - Failed SSH Attack Simulation (PowerShell):
-![image](https://github.com/user-attachments/assets/7acb93ad-3f37-4b0e-a9a3-fdfe7fab78c1)
+- ![image](https://github.com/user-attachments/assets/7acb93ad-3f37-4b0e-a9a3-fdfe7fab78c1)
 
 - Live SSH Attack Monitoring (Using auth.log):
 ![image](https://github.com/user-attachments/assets/71b4e092-62f0-4345-b755-568d8288e025)
