@@ -23,13 +23,13 @@ This is a hands-on cybersecurity lab that uses Splunk Enterprise to simulate and
   - Display top attacking IPs
 
 ## Screenshots
-Failed SSH Attack Simulation (PowerShell):
-  ![image](https://github.com/user-attachments/assets/7acb93ad-3f37-4b0e-a9a3-fdfe7fab78c1)
+### Failed SSH Attack Simulation (PowerShell):
+![image](https://github.com/user-attachments/assets/7acb93ad-3f37-4b0e-a9a3-fdfe7fab78c1)
 
-Live SSH Attack Monitoring (Using auth.log):
+### Live SSH Attack Monitoring (Using auth.log):
 ![image](https://github.com/user-attachments/assets/71b4e092-62f0-4345-b755-568d8288e025)
 
-Splunk Dashboard:
+### Splunk Dashboard:
 ![image](https://github.com/user-attachments/assets/c127b81d-ee7d-4633-a234-024eb3cd9e0d)
 
 ## Lessons Learned
