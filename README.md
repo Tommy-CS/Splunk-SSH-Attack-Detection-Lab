@@ -35,7 +35,8 @@ This is a hands-on cybersecurity lab that uses Splunk Enterprise to simulate and
 
 ### Splunk Alert:
 ![image](https://github.com/user-attachments/assets/62362a93-458c-4fa8-8d08-77e3990ceeb2)
-![image](https://github.com/user-attachments/assets/15f49ccc-16ed-4d9a-bc3f-a6a3df66c9ff)
+![image](https://github.com/user-attachments/assets/0e667f3d-fe38-4b2c-bea9-946a0b2506a9)
+
 
 
 ## Lessons Learned
