@@ -21,7 +21,7 @@ This is a hands-on cybersecurity lab that uses Splunk Enterprise to simulate and
   - Visualize failed login trends over time
   - Identify frequently used usernames
   - Display top attacking IPs
-- Triggers alerts when a single IP attempts multiple usernames unsuccessfully
+- Triggers alerts when a single IP attempts 3 or more usernames unsuccessfully
 
 ## Screenshots
 ### Failed SSH Attack Simulation (PowerShell):
