@@ -1,5 +1,5 @@
 # SSH Attack Detection Lab (Splunk + Linux)
-This is a hands-on cybersecurity lab that uses Splunk Enterprise to simulate and detect SSH brute force attacks on a Linux VM. This project aims to explore local log monitoring, regex-based log parsing, and SIEM visualization using custom SPL queries.
+This lab uses Splunk Enterprise to simulate and detect SSH brute force attacks on a Linux VM. This project aims to explore local log monitoring, regex-based log parsing, and SIEM visualization using custom SPL queries.
 
 ## Tools & Technologies Used
 - Ubuntu (Linux VM)
