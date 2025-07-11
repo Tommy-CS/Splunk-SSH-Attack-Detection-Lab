@@ -27,12 +27,15 @@ I built this lab to understand how brute-force attacks are logged and detected i
 ### Failed SSH Attack Simulation (PowerShell):
 ![image](https://github.com/user-attachments/assets/7acb93ad-3f37-4b0e-a9a3-fdfe7fab78c1)
 
+---
 ### Live SSH Attack Monitoring (Using auth.log):
 ![image](https://github.com/user-attachments/assets/71b4e092-62f0-4345-b755-568d8288e025)
 
+---
 ### Splunk Dashboard:
 ![image](https://github.com/user-attachments/assets/c127b81d-ee7d-4633-a234-024eb3cd9e0d)
 
+---
 ### Splunk Alert:
 ![image](https://github.com/user-attachments/assets/62362a93-458c-4fa8-8d08-77e3990ceeb2)
 ![image](https://github.com/user-attachments/assets/0e667f3d-fe38-4b2c-bea9-946a0b2506a9)
